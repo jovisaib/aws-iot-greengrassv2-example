@@ -18,9 +18,8 @@ Este repositorio asume que todo el ecosistema se encuentra dentro de una misma R
 Ademas de los SDK indispensables de AWS se han usado las siguientes librerÍas de terceros.
 
 - __[python-opcua](https://github.com/FreeOpcUa/python-opcua/)__ - Free OPC UA Libreria en python 
-- LibrerÍa de Adafruit(c) para DHT11.
+- __[Adafruit_Python_DHT](https://github.com/adafruit/Adafruit_Python_DHT)__ - LibrerÍa de Adafruit(c) para DHT.
 ***
-
 
 
 ### Caso de uso con humedad y temperatura
