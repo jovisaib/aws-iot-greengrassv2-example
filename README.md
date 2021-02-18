@@ -1,6 +1,8 @@
 # Introducción a AWS Greengrass V2
 
 
+
+#### Resumen
 Este repositorio contiene el código y documentación para hacer una introducción a Greengrass V2.
 
 
@@ -23,6 +25,7 @@ Para recoger información del sensor DHT se ha usado la librerÍa de Adafruit.
 
 
 
+#### Caso de uso con humedad y temperatura
 
 Para poder ver en tiempo real la información sobre la temperatura y humedad se ha usado la siguiente topologia:
 ![Humidity & Temperature Sensor Diagram](/assets/thsensor.png)
@@ -31,12 +34,14 @@ Notese que por razones didacticas se ha querido pasar por tanto el MQTT de IoT C
 
 
 
+#### Caso de uso con un servidor OPC UA
+
 El siguiente diagrama muestra la topologia usada para que a traves de Greengrass, se pueda visualizar en tiempo real la unica variable que tiene el servidor simple de OPC UA que se ha montado:
 ![OPC UA Diagram](/assets/opcuadiagram.png)
 
 
 
-
+#### Visualización
 
 Finalmente SiteWise te permite visualizar los distintos activos que estamos actualizando con los Streams.
 
