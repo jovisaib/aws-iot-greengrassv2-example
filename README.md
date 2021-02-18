@@ -22,4 +22,8 @@ Para recoger información del sensor DHT se ha usado la libreria de Adafruit.
 
 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Humidity & Temperature Sensor Diagram](/assets/thsensor.png)
+
+![OPC UA Diagram](/assets/opcuadiagram.png)
+
+![OPC-UA server in SiteWise](/assets/opcua-viz.png)
